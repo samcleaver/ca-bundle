@@ -1,0 +1,13 @@
+{
+  "name" : "samcleaver/ca-bundle",
+  "description" : "The Mozilla CA bundle extracted and converted to PEM.",
+  "version" : "1.0",
+  "authors" : [ {
+    "name" : "Daniel Stenberg",
+    "homepage" : "https://github.com/badger"
+  } ],
+  "keywords" : [ "ca-bundle", "curl", "mozilla", "ca", "pem" ],
+  "license" : ["MPL-1.1", "GPL-2.0", "LGPL-2.1"],
+  "type" : "library",
+  "homepage" : "https://github.com/badger/ca-bundle"
+}
